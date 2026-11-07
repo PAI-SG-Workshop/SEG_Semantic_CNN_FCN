@@ -7,3 +7,8 @@ informational, not legal advice.
 | source | licence (as published by the source) |
 | --- | --- |
 | pytorch/vision (ResNet, Mask R-CNN heads, FCN / DeepLabv3, ASPP) | BSD-3-Clause |
+
+## v1.1 additions (KITTI, 2026-11-08)
+
+- torchvision ResNet-50 ImageNet weights (IMAGENET1K_V1): BSD-3-Clause (torchvision); downloaded at training time.
+- KITTI-STEP (Weber et al., NeurIPS 2021 Datasets track), KITTI tracking images: CC BY-NC-SA 3.0.
